@@ -31,7 +31,7 @@
   1. Now go back to the terminal and change your path to your home directory
   - Save your command inside the `solutions.md` file and commit your changes:
   - `git add solutions.md`
-  - `git commit -m "add command to change path to home directory"
+  - `git commit -m "add command to change path to home directory"`
   - Push your new branch up to GitHub: `git push origin solutions`
   2. Now create a `ga` folder in your home directory
   - Save your command inside `solutions.md`
