@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  WEB DEVELOPMENT IMMERSIVE
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
 
 # Terminal & Git Practice
 
@@ -22,7 +22,7 @@
 7. Now create an empty file: `touch solutions.md`
 - Add and commit your changes:
   - `git add solutions.md`
-  - `git commit -m "addd solution file to save my commands"`
+  - `git commit -m "add solution file to save my commands"`
 8. Open the `solutions.md` file in Visual Studio Code from the terminal: `code solutions.md`
 9. For the following steps, save your commands inside `solutions.md`, use the following format:
 ```
