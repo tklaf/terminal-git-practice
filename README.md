@@ -40,12 +40,12 @@
   - `git commit -m "add command to change path to home directory"`
   - Push your new branch up to GitHub: `git push origin solutions`
 
-12. Now create a `ga` folder in your home directory (mkdir ~/ga)
+12. Now create a `ga` folder in your home directory (`mkdir ~/ga`)
   - Save your command new command you used to create the ga folder inside `solutions.md`
   - Then git add, commit and push the new aditions.
 
 13. Change into the `ga` directory and create a directory for each week i.e. `week1`, `week2`, ..., `week12`
-  - Save your command, add, commit, and push your changes
+  - Add your commands into solutions.md, add, commit, and push your changes
 
 14. Create a project directory for each project (you will have four projects) i.e. `project1`, ..., `project4`
-  - Save your command, add, commit, and push your changes
+  - Add your commands into solutions.md, add, commit, and push your changes
