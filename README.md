@@ -32,7 +32,7 @@
 
 9. Open the `solutions.md` file in Visual Studio Code from the terminal by typing the following command: `code solutions.md`
 
-10. For the following steps, save your commands inside `solutions.md` (To see a history of the commands you recently typed in youre terminal, checkout out the file `~/.bashrc`)
+10. For the following steps, save your commands inside `solutions.md` (To see a history of the commands you recently typed in youre terminal, checkout out the file `~/.bash_history`)
 
 11. Copy your commands used from the bash_history file inside the `solutions.md` file and commit your changes
   - `git add solutions.md`
