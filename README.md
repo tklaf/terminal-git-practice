@@ -28,7 +28,7 @@
 8. Now create an empty file: `touch solutions.md`
   - Add and commit your changes:
     - `git add solutions.md`
-    - `git commit -m "addd solution file to save my commands"`
+    - `git commit -m "add solution file to save my commands"`
 
 9. Open the `solutions.md` file in Visual Studio Code from the terminal by typing the following command: `code solutions.md`
 
