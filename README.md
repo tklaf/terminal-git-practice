@@ -35,6 +35,7 @@
 10. For the following steps, save your commands inside `solutions.md` (To see a history of the commands you recently typed in youre terminal, checkout out the file `~/.bash_history`)
 
 11. Copy your commands used from the bash_history file inside the `solutions.md` file and commit your changes
+
   - `git add solutions.md`
   - `git add solutions.md -p` to add code line by line (great for adding only certain parts of a file to git)
   - `git commit -m "add command to change path to home directory"`
