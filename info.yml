@@ -1,0 +1,4 @@
+unit: 1
+section: setup
+type: exercise 
+notes: users branches, and the checkout -b shortcut
